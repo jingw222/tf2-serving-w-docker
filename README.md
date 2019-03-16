@@ -1,0 +1,1 @@
+[Link to the Medium Post](https://medium.com/@jingw222/tensorflow-serving-with-docker-an-end-to-end-example-24b412e31ae1)
